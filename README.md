@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=phallobst&show_icons=true&theme=cobalt)](https://github.com/phallobst/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=phallobst&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
